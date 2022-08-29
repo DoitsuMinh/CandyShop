@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorAssemblyInfo.cs
